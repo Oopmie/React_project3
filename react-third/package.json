@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4",
     "swiper": "^14.3.0"
   },
   "devDependencies": {
@@ -19,6 +20,7 @@
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
     "oxlint": "^1.81.0",
+    "sass-embedded": "^1.105.1",
     "vite": "^8.3.0"
   }
 }

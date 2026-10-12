@@ -31,6 +31,7 @@ import s8p4 from "../src/assets/s8p4.png"
 import str_down from "../src/assets/str_down.png"
 import tg from "../src/assets/tg.png"
 import view from "../src/assets/view.png"
+import search from "../src/assets/search.png"
 
 export const Photos = {
     back_sec1:back_sec1,
@@ -65,5 +66,6 @@ export const Photos = {
     s8p4:s8p4,
     str_down:str_down,
     tg:tg,
-    view:view
+    view:view,
+    search:search
 }
