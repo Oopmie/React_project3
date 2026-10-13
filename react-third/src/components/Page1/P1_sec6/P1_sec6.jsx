@@ -4,7 +4,13 @@ export default function P1_sec6() {
     return (
         <>
             <section className="P1_sec6">
-
+                <div className="text">
+                    <h1>Trusted Care</h1>
+                    <p>Our Doctors</p>
+                </div>
+                <div className="swiper">
+                    
+                </div>
             </section>
         </>
     )
