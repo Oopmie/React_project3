@@ -81,4 +81,18 @@
         align-items: center;
         color: white;
     }
+    .swiper-pagination {
+        bottom: 0;
+    }
+
+    .swiper-pagination-bullet {
+        background-color: #BFD2F8;
+        opacity: 1;
+        width: 12px;
+        height: 12px;
+    }
+
+    .swiper-pagination-bullet-active {
+        background-color: #1F2B6C;
+    }
 }
